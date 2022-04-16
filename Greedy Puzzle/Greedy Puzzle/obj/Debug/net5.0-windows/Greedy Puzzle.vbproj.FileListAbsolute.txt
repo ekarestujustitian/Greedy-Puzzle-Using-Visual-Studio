@@ -1,0 +1,41 @@
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.vbprojAssemblyReference.cache
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy_Puzzle.Form1.resources
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.AssemblyInfo.vb
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\bin\Debug\net5.0-windows\Greedy Puzzle.exe
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\bin\Debug\net5.0-windows\Greedy Puzzle.deps.json
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\bin\Debug\net5.0-windows\Greedy Puzzle.runtimeconfig.json
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\bin\Debug\net5.0-windows\Greedy Puzzle.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\bin\Debug\net5.0-windows\Greedy Puzzle.dll
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\bin\Debug\net5.0-windows\ref\Greedy Puzzle.dll
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\bin\Debug\net5.0-windows\Greedy Puzzle.pdb
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.dll
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\ref\Greedy Puzzle.dll
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.pdb
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.genruntimeconfig.cache
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\bin\Debug\net5.0-windows\Interop.VSLangProj.dll
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\bin\Debug\net5.0-windows\Interop.VSLangProj2.dll
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\bin\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Interop.VSLangProj.dll
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Interop.VSLangProj2.dll
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.vbproj.ResolveComReference.cache
+C:\Users\asus\source\repos\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy_Puzzle.Resources.resources
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.vbprojAssemblyReference.cache
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Interop.VSLangProj.dll
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Interop.VSLangProj2.dll
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.vbproj.ResolveComReference.cache
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy_Puzzle.Form1.resources
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy_Puzzle.Resources.resources
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.vbproj.GenerateResource.cache
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.AssemblyInfoInputs.cache
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.AssemblyInfo.vb
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.vbproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.dll
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\ref\Greedy Puzzle.dll
+E:\Kuliah\Semester 5\Kecerdasan Buatan\FP\Greedy Puzzle\Greedy Puzzle\obj\Debug\net5.0-windows\Greedy Puzzle.pdb
